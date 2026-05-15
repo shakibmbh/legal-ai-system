@@ -1,0 +1,17 @@
+
+streamlit
+fastapi
+uvicorn
+google-genai
+chromadb
+sentence-transformers
+pymupdf
+paddleocr
+paddlepaddle
+pydantic
+numpy
+pandas
+scikit-learn
+sqlalchemy
+python-dotenv
+pyngrok
